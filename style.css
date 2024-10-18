@@ -109,7 +109,7 @@ iframe {
 /* NEWS
 ------------------------------- */
 #news {
-    background-image: url(./news-bg.jpg);
+    background-image: url(/news-bg.jpg);
     height: 290px;
     margin-bottom: 40px;
 }
